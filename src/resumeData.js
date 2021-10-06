@@ -23,7 +23,7 @@ let resumeData = {
         }
       ],
     "aboutme":"I always have had the drive to learn more and do better and no matter what hold me back i rose to victory",
-    "address":"9516 stoney Glen dr Apt O charlotte nc 28216",
+    "address":"Charlotte NC 28227",
     "website":"",
     "education":[
       {
