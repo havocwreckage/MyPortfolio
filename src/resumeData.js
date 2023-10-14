@@ -1,9 +1,8 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Josue Flores",
-    "role": "Frontend Developer",
+    "role": "Cybersecurity Analyst",
     "linkedinId":"Havocwreckage",
-    "skypeid": "Your skypeid",
     "roleDescription": "I am a cyber security analyst with 3 yeara of experience and wanting to continue my knowledgeand expand more to not just help my skills with cyber securitybut as well in team building i want to be able to help my team and continue developing skills to help better the work environment",
     "socialLinks":[
         {
