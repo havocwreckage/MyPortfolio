@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer",
     "linkedinId":"Havocwreckage",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am a soon to be graduate from the Road to Hire program. The Road to Hire program is a 6-month program that aims to develop successful students in the software development field and Teamworking Exercise. Within the program, we have learned many skills such as working with Github, shell terminal, HTML and CSS, JavaScript, Node.js, Public Speaking, Team Building, and React at the moment. I believe that my progress through the program has change my views on life. Also working remotely has been a brand new experience I have come to enjoy. I know that Road to Hire has equipped me with the skills that will help me succeed. Also if you think You can beat me in Rainbow Six let us see. ",
+    "roleDescription": "I am a cyber security analyst with 3 yeara of experience and wanting to continue my knowledgeand expand more to not just help my skills with cyber securitybut as well in team building i want to be able to help my team and continue developing skills to help better the work environment",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -66,7 +66,14 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
-      }
+      } 
+      {
+        "skillname":"Jira"
+          },
+        {
+          "skillname":"Microsoft office"
+        }
+          
     ],
     "portfolio":[
       {
@@ -83,7 +90,7 @@ let resumeData = {
       },
       {
         "name":"Hotel Sleep",
-        "description":"My Group project i fell in love with",
+        "description":"My Group project i fell in love with to learn and build in my skill set",
           "imgurl": "images/portfolio/hotelsleep.png",
           "url": "https://hotelwebsiteproject.netlify.app/"
       },
